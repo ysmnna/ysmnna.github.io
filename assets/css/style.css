@@ -1153,11 +1153,11 @@ section .container {
   }
 }
 
-/* .credits a {
+.credits a {
   color: #a56965;
   transition: 0.3s;
 }
 
 .credits a:hover {
   color: #fff;
-} */
+}
