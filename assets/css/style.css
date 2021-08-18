@@ -1142,6 +1142,7 @@ section .container {
   font-size: 13px;
   color: #fff;
   z-index: 999999;
+  font-family: "Open Sans", sans-serif;
 }
 
 @media (max-width: 992px) {
@@ -1152,11 +1153,11 @@ section .container {
   }
 }
 
-.credits a {
+/* .credits a {
   color: #a56965;
   transition: 0.3s;
 }
 
 .credits a:hover {
   color: #fff;
-}
+} */
